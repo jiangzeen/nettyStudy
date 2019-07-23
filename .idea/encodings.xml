@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/ChatTCPSocket.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/Client.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/InetAddressDemo.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/MyServer.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/Server.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/SocketThread.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/TCPScoketServer.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/UrlDecodeTest.java" charset="GBK" />
+    <file url="file://D:/My java code1/Java网络编程基础/src/com/Net/UrlDemo.java" charset="GBK" />
+  </component>
+</project>
