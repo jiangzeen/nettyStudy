@@ -5,8 +5,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:/gradle-5.4.1" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleHome" value="/var/local/gradle/gradle-5.5.1" />
+        <option name="gradleJvm" value="jdk11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />

@@ -176,3 +176,8 @@ java.io.IOException: 远程主机强迫关闭了一个现有的连接。
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
 	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-07-23 05:12:44,910 [      0]   INFO -                        CONSOLE - 客户端开始登陆 
+2019-07-23 05:12:45,312 [      0]   INFO -                        CONSOLE - 用户JZE登录成功 
+2019-07-23 05:12:45,355 [    445]   INFO -                        CONSOLE - 登录成功 
+2019-07-23 05:29:03,270 [ 977958]   INFO -                        CONSOLE - 收到客户端发送的信息：wei hello i am jiangzeen 
+2019-07-23 05:29:03,278 [ 978368]   INFO -                        CONSOLE - 收到服务器的答复：【服务端答复：已收到信息】--wei hello i am jiangzeen 

@@ -94,6 +94,7 @@ public class PacketCodeC {
     }
 
     /**
+     * TODO://将这些指令重构为Map与Packet一一对应
      * 获取所需序列化的通信包的类型根据command指令
      * @param command 请求指令
      * @return packet的类型
